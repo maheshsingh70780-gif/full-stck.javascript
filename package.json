@@ -2,20 +2,20 @@
   "name": "full-stck.javascript",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [],
+  "homepage": "https://github.com/maheshsingh70780-gif/full-stck.javascript#readme",
+  "bugs": {
+    "url": "https://github.com/maheshsingh70780-gif/full-stck.javascript/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maheshsingh70780-gif/full-stck.javascript.git"
   },
-  "keywords": [],
-  "author": "",
   "license": "ISC",
+  "author": "",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/maheshsingh70780-gif/full-stck.javascript/issues"
-  },
-  "homepage": "https://github.com/maheshsingh70780-gif/full-stck.javascript#readme"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
